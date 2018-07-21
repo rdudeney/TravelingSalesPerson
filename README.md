@@ -70,4 +70,7 @@ Stepwise refinement is the splitting of the different functions of the program i
 Conclusion:
 
 Above are outlined the game play of the TSP game, how the backend functions and the programming concepts that allow the game to work. Special thanks in the creation this game to Professor David Sullivan of Harvard and his team, as the Graph class is largely based on the depth first program from Data Structures class of Fall 2016. Also, thanks to Github and Google, that allowed the search and access of longitude and latitude information for different cities in the US. Please enjoy playing the game and learning about the Traveling Salesperson Problem.
+<<<<<<< HEAD
 
+=======
+>>>>>>> c959fdf46a03c400f029c7c0392e56ea4611fe36
